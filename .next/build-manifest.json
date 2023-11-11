@@ -27,4 +27,10 @@
     ]
   },
   "ampFirstPages": []
+}nks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/_error.js"
+    ]
+  },
+  "ampFirstPages": []
 }
