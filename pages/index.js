@@ -49,11 +49,11 @@ export const getServerSideProps = async (ctx) => {
     return {
       redirect: {
         destination: "/chat"
-      }
-    }
+      },
+    };
   }
   
   return {
-    props: {}
-  }
-}
+    props: {},
+  };
+};
